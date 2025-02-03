@@ -43,3 +43,5 @@ muveletek.forEach(muvelet => {
         }
     });
 });
+
+//Ez egy változtatás
